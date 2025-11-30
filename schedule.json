@@ -1,0 +1,24 @@
+{
+  "providers": [
+    {
+      "name": "Dr. Bustamante",
+      "specialty": "Pediatric Cardiologist",
+      "schedule": [
+        {"start": "2025-11-21T09:00:00", "visit_type": "well_child"},
+        {"start": "2025-11-21T09:30:00", "visit_type": "well_child"},
+        {"start": "2025-11-21T14:00:00", "visit_type": "sick_visit"},
+        {"start": "2025-11-21T14:30:00", "visit_type": "sick_visit"}
+      ]
+    },
+    {
+      "name": "Dr. Majjul",
+      "specialty": "Pediatrics",
+      "schedule": [
+        {"start": "2025-11-21T10:00:00", "visit_type": "well_child"},
+        {"start": "2025-11-21T10:30:00", "visit_type": "well_child"},
+        {"start": "2025-11-21T15:00:00", "visit_type": "sick_visit"},
+        {"start": "2025-11-21T15:30:00", "visit_type": "sick_visit"}
+      ]
+    }
+  ]
+}
